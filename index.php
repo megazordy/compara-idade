@@ -10,7 +10,7 @@
         <h1>Compara Idade</h1>
         <p>Informe os nomes e as idades de duas pessoas</p>
 
-        <form action="" method="post">
+        <form action="calcula.php" method="post">
             <div>
                 <label for="pessoa1">Nome da Pessoa 1</label>
                 <input type="text" name="pessoa1" id="pessoa1" required>
